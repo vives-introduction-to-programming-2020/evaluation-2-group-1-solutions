@@ -19,6 +19,8 @@ Probeer er echter wel voor te zorgen dat je project op het einde compileert. Des
 ## Verwachte output
 
 ```text
+Welcome to Find the Key
+
 Value of keyValue "name: Nico De Witte" => "Nico De Witte"
 Value of invalid "This is not a valid string" => ""
 Value of empty "" => ""

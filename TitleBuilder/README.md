@@ -29,6 +29,8 @@ Probeer er echter wel voor te zorgen dat je project op het einde compileert. Des
 ## Verwachte output
 
 ```text
+Welcome to Title Builder
+
 #########################################
 # Hello and Welcome to the second grade #
 # ------------------------------------- #

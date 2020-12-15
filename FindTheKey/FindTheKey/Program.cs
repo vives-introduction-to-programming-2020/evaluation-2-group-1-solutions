@@ -6,6 +6,8 @@ namespace FindTheKey
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to Find the Key\n");
+
             KeyValueParser parser = new KeyValueParser();
 
             string keyValue = "name: Nico De Witte";

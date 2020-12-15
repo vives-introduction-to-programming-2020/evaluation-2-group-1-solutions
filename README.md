@@ -33,7 +33,7 @@ Resolving deltas: 100% (57/57), done.
 
 Aanpassingen dienen te worden gecommit en gepushed via de terminal (PowerShell).
 
-Ga naar je lokale kopie van de repository en start PowerShell hier op. Zorg dat je in de directory `csharp-evaluation-2-<username>` zit.
+Ga naar je lokale kopie van de repository en start PowerShell hier op. Zorg dat je in de directory `csharp-evaluation-2-group-1-<username>` zit.
 
 1. Toevoegen van alle aangepaste files: `git add .`
 2. Committen van de aanpassingen en meegeven van een bericht: `git commit -m "My message goes here"`
@@ -50,6 +50,7 @@ Plaats een ✔️ bij de oefeningen die volledig klaar zijn.
 
 | Finished | Challenge | Description | Percentage |
 | :---: | --- | --- | :---: |
-| ❌ | [How Many Are There](./HowManyAreThere/README.md) | Zoek getallen in een array | `20%` |
-| ❌ | [Find the Key](./FindTheKey/README.md) | Parse een key-value string | `20%` |
-| ❌ | [TitleBuilder](./TitleBuilder/README.md) | Generate title block | `20%` |
+| ❌ | [How Many Are There](./HowManyAreThere/README.md) | Zoek getallen in een array | `25%` |
+| ❌ | [Find the Key](./FindTheKey/README.md) | Parse een key-value string | `25%` |
+| ❌ | [Title Builder](./TitleBuilder/README.md) | Generate title block | `25%` |
+| ❌ | [Start to End](./StartToEnd/README.md) | Calculate length of a line segment (OOP) | `25%` |

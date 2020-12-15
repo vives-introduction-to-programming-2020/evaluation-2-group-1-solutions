@@ -7,6 +7,8 @@ namespace HowManyAreThere
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to How Many are There\n");
+
             ArrayHelper helper = new ArrayHelper();
 
             int[] values = { 1, 15, 22, -3, 8, 22, 15, 0 };

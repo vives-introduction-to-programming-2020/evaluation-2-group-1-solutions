@@ -16,6 +16,8 @@ Probeer er echter wel voor te zorgen dat je project op het einde compileert. Des
 ## Verwachte output
 
 ```text
+Welcome to How Many are There
+
 Smallest number in values: -3
 Smallest number in empty: 0
 Counting 22 in values: 2
