@@ -19,6 +19,7 @@ Jouw taak (zie `View => Task List` in Visual Studio) bestaat er nu uit om deze m
 * Maak een kader van hashtag `#` symbolen.
 * Onder de titel moet er een lijn komen van dashes `-`.
 * Links en rechts van de titel dienen spaties te staan.
+* De breedte van het kader is afhankelijk van de lengte van de titel.
 
 Indien gewenst mag je gerust private methodes in de class bijmaken.
 

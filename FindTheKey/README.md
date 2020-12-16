@@ -7,10 +7,10 @@ Bv.:
 * `message: Hello World`, hierbij is `message` de key en `Hello World` de value.
 * `email: nico.dewitte@vives.be`, waarbij de key `email` is en de value `nico.dewitte@vives.be`.
 
-Jouw taak (zie `View => Task List` in Visual Studio) bestaat uit het implementeren van de twee methodes `IsValid()` en `GetValue`:
+Jouw taak (zie `View => Task List` in Visual Studio) bestaat uit het implementeren van de twee methodes `IsValid()` en `GetValue()`:
 
-* De `IsValid()` methode zou enkel `true` mogen returnen als de key-value string een geldig formaat heeft (niet leeg is en een dubbel punt (colon) heeft)
-* De `GetValue()` methode dient de `text` string te parsen en de `value` er uit te halen. Indien de text niet geldig is, dien je een lege string te returnen.
+* De `IsValid()` methode zou enkel `true` mogen returnen als de key-value string een geldig formaat heeft. Een key-value string is geldig indien deze niet leeg is en een dubbel punt (colon) bevat.
+* De `GetValue()` methode dient de `text` string te parsen en de `value` er uit te halen indien deze geldig is. De methode returned dan ook de gevonden value. Indien de `text` string niet geldig is, dien je een lege string te returnen.
 
 Je mag de `Main()` methode aanpassen / uitbreiden als je dit nodig vind.
 
