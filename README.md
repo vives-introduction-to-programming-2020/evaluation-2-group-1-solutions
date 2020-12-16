@@ -40,17 +40,17 @@ Ga naar je lokale kopie van de repository en start PowerShell hier op. Zorg dat 
 3. Pushen van aanpassingen naar GitHub: `git push origin master`
 4. Om te controleren of alles goed verloopt kan je steeds het commando `git status` uitvoeren.
 
-Vervolgens dien je ook naar GitHub pagina te surfen en te zorgen dat alles online terug te vinden is.
+Vervolgens dien je ook naar de GitHub pagina te surfen en te zorgen dat alles online terug te vinden is.
 
-Opgelet! Probeer enkel code te committen die compileert. Indien je er niet geraakt plaats dan niet-werkende code in commentaar vooraleer te committen.
+**Opgelet!** Probeer enkel code te committen die compileert. Indien je er niet geraakt plaats dan niet-werkende code in commentaar vooraleer te committen.
 
 ## Overzicht
 
 Plaats een ✔️ bij de oefeningen die volledig klaar zijn.
 
-| Finished | Challenge | Description | Percentage |
-| :---: | --- | --- | :---: |
-| ❌ | [How Many Are There](./HowManyAreThere/README.md) | Zoek getallen in een array | `25%` |
-| ❌ | [Find the Key](./FindTheKey/README.md) | Parse een key-value string | `25%` |
-| ❌ | [Title Builder](./TitleBuilder/README.md) | Generate title block | `25%` |
-| ❌ | [Start to End](./StartToEnd/README.md) | Calculate length of a line segment (OOP) | `25%` |
+| Challenge | Description | Percentage |
+| --- | --- | :---: |
+| [How Many Are There](./HowManyAreThere/README.md) | Zoek getallen in een array | `25%` |
+| [Find the Key](./FindTheKey/README.md) | Parse een key-value string | `25%` |
+| [Title Builder](./TitleBuilder/README.md) | Genereer een titel blok | `25%` |
+| [Start to End](./StartToEnd/README.md) | Bereken de lengte van een lijnstuk (OOP) | `25%` |
