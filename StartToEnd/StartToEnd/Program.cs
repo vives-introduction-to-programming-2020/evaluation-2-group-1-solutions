@@ -14,7 +14,7 @@ namespace StartToEnd
             );
 
             // TODO - Uncomment this so the LineSegment length is outputted
-            // Console.WriteLine($"The length of the segment is {segment.Length()}");
+            Console.WriteLine($"The length of the segment is {segment.Length()}");
         }
     }
 }

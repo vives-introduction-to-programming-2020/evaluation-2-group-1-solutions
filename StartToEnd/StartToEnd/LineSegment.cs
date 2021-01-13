@@ -32,6 +32,13 @@ namespace StartToEnd
             return end;
         }
 
+        public double Length()
+        {
+            double dx = end.GetX() - start.GetX();
+            double dy = end.GetY() - start.GetY();
+            return Math.Sqrt(dx * dx + dy * dy);
+        }
+
         private Point start;
         private Point end;
     }
